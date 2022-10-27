@@ -10,4 +10,4 @@ El programa recibe un archivo “csv” que contiene las preguntas siete y las c
 El archivo consta de una fila por pregunta, 7 columnas por fila.\
 
 # Salida del sistema
-Al finalizar las preguntas el programa mostrará por consola los puntos obtenidos de cada jugador y el ganador del juego.\
+Al finalizar las preguntas el programa mostrará por consola los puntos obtenidos de cada jugador y el ganador del juego.
