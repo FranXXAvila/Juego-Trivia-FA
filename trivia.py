@@ -1,7 +1,8 @@
 from cgi import print_arguments
 import csv
+from tarfile import ENCODING
 
-preguntascsv = open("preguntas.csv")
+preguntascsv = open("preguntas.csv", encoding = "utf-8")
 datoscsv = list(csv.DictReader(preguntascsv))
 preguntascsv.close()
 
